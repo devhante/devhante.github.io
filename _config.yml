@@ -2,6 +2,8 @@
 title: hante's Blog
 SEOTitle: hante's Blog
 description: "안녕하세요. 개발자 한테의 블로그입니다."
+url: "https://devhante.github.io"
+baseurl: ""
 
 # SNS settings      
 github_username: devhante
