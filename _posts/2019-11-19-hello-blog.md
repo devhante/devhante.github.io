@@ -1,6 +1,5 @@
 ---
 title: "Hello, Blog!"
-date: 2019-11-19 16:17:00
 categories:
   - Chat
 ---
