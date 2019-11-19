@@ -20,7 +20,7 @@ title                    : "한테의 기술 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "hante"
-description              : "좋아하는 걸 즐겁게 하는 사람입니다.."
+description              : "좋아하는 걸 즐겁게 하는 사람입니다."
 url                      : "https://devhante.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
