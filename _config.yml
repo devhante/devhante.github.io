@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "hante"
+  avatar           : "/assets/images/profile.jpg"
+  bio              : "좋아하는 걸 즐겁게 하는 사람입니다."
+  location         : "Daejeon, Korea"
+  email            : "ironside2001@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
